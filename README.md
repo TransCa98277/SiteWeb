@@ -1,1 +1,1 @@
-# CodeSource_PageWebDuGroupe_et_API2
+Ce folder contient un folder s'appelle `Evalu98277` qu'il s'agit les codes sources de la page web du groupe, il faut copier ce folder au complet dans le repertoire de WAMP server `C:\wamp64\www\` une fois le WAMP server est correctement installe. L'URL de la page web du groupe est http://localhost/Evalu98277/ 
